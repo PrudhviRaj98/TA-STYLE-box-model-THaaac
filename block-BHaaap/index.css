@@ -49,8 +49,8 @@ table {
 
 
 .image {
-    display: inline-block;
-    border-radius: 50%;
+   
+    border-radius:25%;
     padding: 30px 30px;
     
     margin-left: 40px;
@@ -74,22 +74,18 @@ span {
     border: 1px solid red;
     background-color: #D18C1D;
     word-spacing:10px
-    
-    
-    
-    
 }
 .para {
     width: 600px;
     height: 400px;
-    border: 2px dotted ;
+    border: 2px dotted black ;
     background-color:  #D1D631;
     margin-top: 20px;
     margin-left: 20px;
     padding: 20px;
 }
 .footer {
-    border: 3px dashed;
+    border: 3px dashed blue;
     background-color:#A1A1A1 ;
     padding: 20px;
     margin: 20px;
