@@ -53,8 +53,7 @@ table {
 .box1 {
     width: 200px;
     height: 100px; 
-    background-color: orangered;  
-    border: solid; 
+    background-color: orangered;   
     display: inline-block;
     padding: 10px;
 }
@@ -64,7 +63,7 @@ table {
     background-color:green ;
     display: inline-block;
     padding: 10px;  
-}
+} 
 .box3 {
     background-color:violet ;  
 }
@@ -87,9 +86,13 @@ table {
     background-color: lightseagreen;
 }
 .margin {
-    margin: 6px;
-
+    margin: 10px;
 }
 .properties {
     text-align: center;
+}
+.section {
+    width: 700px;
+    font-size: 0;
+    margin: 0 auto;
 }
